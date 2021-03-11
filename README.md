@@ -13,4 +13,4 @@ At its current stage, Tech4Dummies is still in a work-in-progress stage with man
 
 >![](MainPage.PNG)
 
->![](CoursePage.PNG)
+>![](Coursepage.PNG)
