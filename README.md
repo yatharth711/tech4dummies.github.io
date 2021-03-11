@@ -19,6 +19,6 @@ At its current stage, Tech4Dummies is still in a work-in-progress stage with man
 
 >![](Coursepage.PNG)
 
->![] We also have Quizes to help you:
+> We also have Quizes to help you:
 
 >![](QuizPage.PNG)
