@@ -11,6 +11,14 @@ At its current stage, Tech4Dummies is still in a work-in-progress stage with man
 
 > These are the pictures of the website: 
 
+> This is the main page: 
+
 >![](MainPage.PNG)
 
+> This is the course Pages, where we will be updating more content about Software,Hardware and coding:
+
 >![](Coursepage.PNG)
+
+>![] We also have Quizes to help you:
+
+>![](QuizPage.PNG)
