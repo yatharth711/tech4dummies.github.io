@@ -1,8 +1,0 @@
-﻿Question,Answer A,Answer B,Answer C,Answer D,Answer
-1. What does HTML stand for ?,Home Tool Marks Language,Hyper Text Markup Language,Hyper Tools for Markup Logic,Hyperlinks Text Messaging Language,B
-2. What is the largest header tag?, &lt;h1&gt;, &lt;h6&gt;, &lt;br&gt;, &lt;h10&gt;,A
-3. We use ______ for a line break and blank space , &lt;space&gt;, &lt;break&gt;, &lt;br&gt;, &lt;line break&gt;,C
-4.This tag is responsible for creating divisions on the page, &lt;space&gt;, &lt;br&gt;, &lt;div&gt;,All of the above ,D
-"5. How to make items, bold,italic and underline?", &lt;strong&gt; &lt;u&gt; &lt;i&gt;, &lt;bold&gt; &lt;underline&gt; &lt;italics&gt;, &lt;b&gt; &lt;ul&gt; &lt;it&gt;, &lt;strong&gt; &lt;under&gt; &lt;italian&gt;,A
-"6. Ina table, which tag adds content to your row?", &lt;tr&gt;, &lt;td&gt;, &lt;row&gt;, &lt;tbody&gt;,C
-7. Which is the right way to add a link ?," &lt;a href =""xyz.com &gt;link &lt;/a &gt;"," &lt;a link =""xyz.com &gt;link &lt;/a &gt;", &lt;link &gt;xyz.com &lt;/a &gt;, &lt;h1&gt;link.com &lt;/h1 &gt;,A

@@ -1,8 +1,0 @@
-﻿Question,Answer A,Answer B,Answer C,Answer D,Answer
-1. What does CSS stand for ?,Colorful Styling Sheets,Cascading Style Sheets,Creative Style Sheet,Created Styled Sources,B
-2. What does HTML stand for, Hyper Text Markup Language,Hyperlinks Text Messaging Language,Home Tool Marks Language, Hyper Text Markup Language,D
-3. Which is the right way to add a link ?," &lt;a href = ""xyz.com"" &gt;link &lt;/a &gt;","&lt;a link =""xyz.com &gt;link &lt;/a &gt;",&lt;link &gt;xyz.com &lt;/a &gt;,&lt;h1&gt;link.com &lt;/h1 &gt;,A
-4. Which is the correct CSS syntax, &lt;background:black&gt;," &lt;h1 style=""background-color:black;""&gt;", &lt;background=&gt;, &lt;style= background=black&gt;,B
-5.What is the largest header tag?,&nbsp;&lt;h1&gt,&nbsp;&lt;h6&gt;,&nbsp;&lt;br&gt;,&lt;h10&gt;,A
-6. The tags which set the position of text are," &lt;p style:""text-align:center""&gt;", &lt;p style:center&gt;," &lt;p style: text-align=""center""gt;"," &lt;""p style: text-align=center""gt;",A
-8. What is the efficient way of writing CSS?,Add style in every tag only,Add the style tag on the top only,have a mix of both A and B,Have a separate CSS tag,C

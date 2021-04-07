@@ -1,6 +1,0 @@
-﻿Question,Answer A,Answer B,Answer C,Answer D,Answer
-1. What does CSS stand for ?,Colorful Styling Sheets,Cascading Style Sheets,Creative Style Sheet,Created Styled Sources,B
-2. Under the &lt;head&gt; tag we initiate the CSS by:, adding the CSS atributes using &ltCSS&gt;, adding the CSS atributes using &ltstyle&gt;, with help of &lt;color&gt;,"referencing css file by  &lt;a href =""css""&gt; &lt;CSS&gt;",B
-3. Which is the correct CSS syntax, &lt;background:black&gt;," &lt;h1 style=""background-color:black;""&gt;", &lt;background=&gt;, &lt;style= background=black&gt;,B
-4. The tags which set the position of text are," &lt;p style:""text-align:center""&gt;", &lt;p style:center&gt;," &lt;p style: text-align=""center""gt;"," &lt;""p style: text-align=center""gt;",A
-5. What is the efficient way of writing CSS?,Add style in every tag only,Add the style tag on the top only,have a mix of both A and B,Have a separate CSS tag,C
