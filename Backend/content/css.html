@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Hello!</title>
+    </head>
+    <body>
+        <h1 style="color: blue; text-align: center;">Hello World</h1>
+        <button onclick="distanceFunction()">Click me to find distance</button>
+        
+    </body>
+
+    <script>
+
+function distanceFunction(){
+    var A = 9.81;
+    var t = prompt("Please enter a time in seconds");
+    var distanceinMeteres = 0.5* A * t * t;
+    var distanceinFeet = 3.28 * distanceinMeteres;
+    var txt = "You fell for: " + distanceinMeteres + " meters or " + distanceinFeet + " feet.";
+    confirm(txt);
+
+}
+
+</script>
+<html>
