@@ -93,7 +93,28 @@
           </div>
           <hr>
           <div class="container">
-            <h1>To be added soon</h1>
+          <p><span style="font-weight: 400;">&nbsp;Welcome back to the third lesson on Hardware. This is where things get a little bit difficult so take your time with this lesson and read over it once again when you are done. Without delay, let&rsquo;s begin.&nbsp;</span></p>
+<p><span style="font-weight: 400;">From our previous lesson, we learned that your computer is hardwired to perform a few basic operations, remember what a few of them were? They include reading a memory located in a register, sense signals from input/output devices, write a register value to a memory location, and many more. For this next part, if you forgot what the register is, the register is the locations of specialized memory used during execution. For your computer to process instructions it follows the below cycle of operations:&nbsp;</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Instruction Fetch (IF) is your computer accessing its memories to retrieve instructions&nbsp;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Instruction Decode (ID) is when your computer searches for the meaning of the instruction</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Data Fetch (DF) is the computer collecting (fetching) data for instruction</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Instruction Execution (IE) is executing the instruction&nbsp;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Result Return (RR) is when the computer returns the result to the register&nbsp;</span></li>
+</ul>
+<p><span style="font-weight: 400;">The program counter (PC) is a special type of register that stores the address of the instruction that is to be</span></p>
+<p><span style="font-weight: 400;">executed next. This entire process is known as the Fetch/Execute Cycle. You should also know that the</span></p>
+<p><span style="font-weight: 400;">instructions in the memory are encoded in what we call bits.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Before we finish this lesson, here are a few important things to know. The speed of a computer in terms of executing a program is dependent on several factors such as:&nbsp;</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">CPU speed</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Memory, system bus, and other devices&rsquo; speed</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Characteristics of a certain program&nbsp;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">And many more</span></li>
+</ul>
+<p><span style="font-weight: 400;">The speed of your CPU clock is measured using GHz, this refers to the number of instructions that your computer can execute per second. Furthermore, the components of a computer consist of what we call gates and circuits. Gates and circuits control electricity to flow into your computer. The gate is a device performing basic operations on electrical signals. The circuit is essentially a combination of gates that perform complex tasks.&nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">That is all for this hardware lesson. Below is a quiz that will help you check your understanding. Remember, if you find this lesson difficult to understand, try reading the concepts a few times. Good luck!</span></p>
           </div>
           <hr>
           <footer class="footer" >
