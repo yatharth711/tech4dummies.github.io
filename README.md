@@ -13,7 +13,7 @@ At its current stage, Tech4Dummies is still in a work-in-progress stage with man
 
 > This is the main page: 
 
->![](MainPage.PNG)
+>![](MainPage1.PNG)
 
 > This is the course Pages, where we will be updating more content about Software,Hardware and coding:
 
